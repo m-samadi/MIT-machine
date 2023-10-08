@@ -1,4 +1,4 @@
-# MIT-machine
+# MIT Machine
 This repository provides a VHDL language program to synthesize a computer based on the machine provided by the Massachusetts Institute of Technology (MIT).
 <br/>
 <br/>
